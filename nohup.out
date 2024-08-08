@@ -1,0 +1,40 @@
+INFO:     Will watch for changes in these directories: ['/home/ubuntu/projects/telegram-bot']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [539864] using WatchFiles
+/home/ubuntu/projects/env/lib/python3.10/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+INFO:     Started server process [539867]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+incoming_data {'update_id': 742434780, 'chat_member': {'chat': {'id': -1001803176861, 'title': 'Aleeza Sehar leaked viral mms video', 'username': 'Aliza_Sehar_leaked_viral_mms_vid', 'type': 'channel'}, 'from': {'id': 6672203855, 'is_bot': False, 'first_name': 'Hasnat', 'last_name': 'Satti'}, 'date': 1706846369, 'old_chat_member': {'user': {'id': 6672203855, 'is_bot': False, 'first_name': 'Hasnat', 'last_name': 'Satti'}, 'status': 'left'}, 'new_chat_member': {'user': {'id': 6672203855, 'is_bot': False, 'first_name': 'Hasnat', 'last_name': 'Satti'}, 'status': 'member'}}}
+'message_id'
+INFO:     127.0.0.1:57044 - "POST /api/messaging/telegram_message/UWpivitgXLCJmCYYqhwj HTTP/1.0" 200 OK
+incoming_data {'update_id': 742434781, 'chat_member': {'chat': {'id': -1001803176861, 'title': 'Aleeza Sehar leaked viral mms video', 'username': 'Aliza_Sehar_leaked_viral_mms_vid', 'type': 'channel'}, 'from': {'id': 6672203855, 'is_bot': False, 'first_name': 'Hasnat', 'last_name': 'Satti'}, 'date': 1706846404, 'old_chat_member': {'user': {'id': 6672203855, 'is_bot': False, 'first_name': 'Hasnat', 'last_name': 'Satti'}, 'status': 'member'}, 'new_chat_member': {'user': {'id': 6672203855, 'is_bot': False, 'first_name': 'Hasnat', 'last_name': 'Satti'}, 'status': 'left'}}}
+'message_id'
+INFO:     127.0.0.1:56026 - "POST /api/messaging/telegram_message/UWpivitgXLCJmCYYqhwj HTTP/1.0" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [539867]
+INFO:     Stopping reloader process [539864]
+INFO:     Will watch for changes in these directories: ['/home/ubuntu/projects/telegram-bot']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [547449] using WatchFiles
+/home/ubuntu/projects/env/lib/python3.10/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+INFO:     Started server process [547452]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+WARNING:  WatchFiles detected changes in 'ai/pplx.py'. Reloading...
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [547452]
+/home/ubuntu/projects/env/lib/python3.10/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+WARNING:  WatchFiles detected changes in 'ai/pplx.py'. Reloading...
+/home/ubuntu/projects/env/lib/python3.10/site-packages/pydub/utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+INFO:     Started server process [547666]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
